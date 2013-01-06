@@ -1,1 +1,11 @@
 In order to run these files, you need Python 2.7 and BeautifulSoup Scraper
+
+Welcome to tldr, the place for lazy people to fulfill all their web browsing needs. Is it too much work for
+you to read every single word in an article? Use this.
+
+Tldr uses Beautiful Soup Scraper, which uses Python 2.7 in order to scrape the info from web, and articles, 
+as well as employing the tf-idf formula in order to determine the importance of every word.
+
+To use the tldr program, download both files, making sure you have the BeautifulSoup scraper installed.
+Open the new_scraper file and press f5 in order to run the program. Just type in the url of the article and
+the formula will do the rest.
